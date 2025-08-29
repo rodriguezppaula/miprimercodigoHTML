@@ -1,0 +1,43 @@
+#titulo {
+    color: rgb(6, 0, 117);
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+#tabla33 {
+    background-color: rgba(135, 107, 107, 0.516);
+    color: rgb(1, 4, 148);
+    border: 10cm;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+    border-radius: 5px;
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    font-weight: bold;
+    border-width: 10px;
+    border-color: blue;
+}
+
+iframe {
+    display: flexbox;
+    justify-content: center;
+    align-items: center;
+}
+
+#ingresarNombre {
+    font-size: 20px;
+    text-align: center;
+}
+
+#ingresarApellido {
+    font-size: 20px;
+    text-align: center;
+}
+
+#ingresarEdad {
+    font-size: 20px;
+    text-align: center;
+}
